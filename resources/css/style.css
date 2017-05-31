@@ -1,3 +1,40 @@
 html {
-  color: blue;
+  text-align: center;
+  font-family: Helvetica;
+}
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+p {
+  font-size: 14px;
+}
+
+.jumbotron {
+  background-image: url("../images/the-flatiron-building.png");
+}
+.navbar a {
+    color: white;
+    font-size: 18px;
+}
+.banner h3 {
+  color: white;
+  font-size: 23px;
+  font-weight: bold;
+  background-image: url("../images/the-flatiron-building.png");
+}
+.footer {
+  font-size: 11px;
+  background-color: dimgray;
+  color: white;
+  text-align: left;
 }
